@@ -1,0 +1,20 @@
+# Heavy Data files
+data/
+*.h5
+*.hdf5
+*.npy
+*.csv
+
+# Python caches and compiled files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
